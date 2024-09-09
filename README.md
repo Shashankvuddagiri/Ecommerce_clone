@@ -23,7 +23,11 @@ Welcome to the **Ecommerce Clone** project repository! This project is a basic i
 - **HTML** - For structuring the content on the web pages.
 - **CSS** - For styling the web pages.
 - **JavaScript** - For adding interactivity to the site.
+📧 Contact
+For more information or questions, you can reach me at:
 
+Name: Shashank Vuddagiri
+GitHub: Shashankvuddagiri
 
 
 
